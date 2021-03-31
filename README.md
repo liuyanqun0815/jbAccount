@@ -24,8 +24,9 @@
 
 扫码关注公众号即可自助完成领取与授权，本人亲自测试没有任何套路。
 
-![](C:\Users\dingxin.zeng\Pictures\Camera Roll\qrcode_for_gh_c620dcb1a73a_258.jpg)
+![qrcode_for_gh_c620dcb1a73a_258](https://user-images.githubusercontent.com/81631195/113165021-38b24180-9274-11eb-9cf9-72a313662a41.jpg)
+
 
 如有遇到问题请添加微信，请备注idea
 
-![](C:\Users\dingxin.zeng\Pictures\Camera Roll\微信图片_20210327151055.jpg)
+![微信图片_20210327151055](https://user-images.githubusercontent.com/81631195/113165057-4071e600-9274-11eb-9abd-3448762b2d07.jpg)
